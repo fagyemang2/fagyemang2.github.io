@@ -93,10 +93,7 @@
 	\bibliography{\jobname}
 	\bibliographystyle{apalike}
 \end{frame}
-\end{document}
 
-
-\begin{document}
 \begin{frame}{graphics}
 <<echo=TRUE, eval=TRUE>>=
 #library(readr)
@@ -113,6 +110,6 @@ penguins <- read.csv("penguins.csv")
 hist(x=penguins$bill_length_mm)
 # ggplot(data = penguins, mapping = aes(x = "bill_length_mm", y = "bill_depth_mm")) + geom_hist(color = "red", alpha = .5, size = 4, shape = 6)+ ggtitle("2021 NTSE Endowment Market Values US and Canadian Institutions--REVISED March 1 2022")
 @
-
 \end{frame}
+
 \end{document}

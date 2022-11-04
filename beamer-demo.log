@@ -1,11 +1,11 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.11.1)  1 NOV 2022 20:18
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.11.4)  4 NOV 2022 17:59
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **"C:/Users/fagyemang/OneDrive - University of Nebraska-Lincoln/Desktop/Semester 1 Grad/stat 850/hw10-documents-presentations-fagyemang2(original)/hw10-documents-presentations-fagyemang2/beamer-demo.tex"
 (c:/Users/fagyemang/OneDrive - University of Nebraska-Lincoln/Desktop/Semester 1 Grad/stat 850/hw10-documents-presentations-fagyemang2(original)/hw10-documents-presentations-fagyemang2/beamer-demo.tex
-LaTeX2e <2022-06-01> patch level 5
-L3 programming layer <2022-10-26> (c:/Users/fagyemang/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/beamer/beamer.cls
+LaTeX2e <2022-11-01>
+L3 programming layer <2022-11-02> (c:/Users/fagyemang/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/beamer/beamer.cls
 Document Class: beamer 2022/09/13 v3.68 A class for typesetting presentations
 (c:/Users/fagyemang/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/beamer/beamerbasemodes.sty (c:/Users/fagyemang/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/etoolbox/etoolbox.sty
 Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
@@ -24,22 +24,22 @@ Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
 ) (c:/Users/fagyemang/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/iftex/iftex.sty
 Package: iftex 2022/02/03 v1.0f TeX engine tests
 )
-\headdp=\dimen138
-\footheight=\dimen139
-\sidebarheight=\dimen140
-\beamer@tempdim=\dimen141
-\beamer@finalheight=\dimen142
-\beamer@animht=\dimen143
-\beamer@animdp=\dimen144
-\beamer@animwd=\dimen145
-\beamer@leftmargin=\dimen146
-\beamer@rightmargin=\dimen147
-\beamer@leftsidebar=\dimen148
-\beamer@rightsidebar=\dimen149
-\beamer@boxsize=\dimen150
-\beamer@vboxoffset=\dimen151
-\beamer@descdefault=\dimen152
-\beamer@descriptionwidth=\dimen153
+\headdp=\dimen140
+\footheight=\dimen141
+\sidebarheight=\dimen142
+\beamer@tempdim=\dimen143
+\beamer@finalheight=\dimen144
+\beamer@animht=\dimen145
+\beamer@animdp=\dimen146
+\beamer@animwd=\dimen147
+\beamer@leftmargin=\dimen148
+\beamer@rightmargin=\dimen149
+\beamer@leftsidebar=\dimen150
+\beamer@rightsidebar=\dimen151
+\beamer@boxsize=\dimen152
+\beamer@vboxoffset=\dimen153
+\beamer@descdefault=\dimen154
+\beamer@descriptionwidth=\dimen155
 \beamer@lastskip=\skip47
 \beamer@areabox=\box54
 \beamer@animcurrent=\box55
@@ -81,19 +81,19 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 \Gm@cnth=\count277
 \Gm@cntv=\count278
 \c@Gm@tempcnt=\count279
-\Gm@bindingoffset=\dimen154
-\Gm@wd@mp=\dimen155
-\Gm@odd@mp=\dimen156
-\Gm@even@mp=\dimen157
-\Gm@layoutwidth=\dimen158
-\Gm@layoutheight=\dimen159
-\Gm@layouthoffset=\dimen160
-\Gm@layoutvoffset=\dimen161
+\Gm@bindingoffset=\dimen156
+\Gm@wd@mp=\dimen157
+\Gm@odd@mp=\dimen158
+\Gm@even@mp=\dimen159
+\Gm@layoutwidth=\dimen160
+\Gm@layoutheight=\dimen161
+\Gm@layouthoffset=\dimen162
+\Gm@layoutvoffset=\dimen163
 \Gm@dimlist=\toks17
 ) (c:/Users/fagyemang/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/pgf/math/pgfmath.sty (c:/Users/fagyemang/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty (c:/Users/fagyemang/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
 \pgfutil@everybye=\toks18
-\pgfutil@tempdima=\dimen162
-\pgfutil@tempdimb=\dimen163
+\pgfutil@tempdima=\dimen164
+\pgfutil@tempdimb=\dimen165
 (c:/Users/fagyemang/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-lists.tex)) (c:/Users/fagyemang/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
 \pgfutil@abb=\box60
 ) (c:/Users/fagyemang/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex (c:/Users/fagyemang/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/pgf.revision.tex)
@@ -104,20 +104,20 @@ Package: pgfrcs 2021/05/15 v3.1.9a (3.1.9a)
 (c:/Users/fagyemang/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.code.tex
 \pgfkeys@tmptoks=\toks21
 ))) (c:/Users/fagyemang/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex (c:/Users/fagyemang/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex (c:/Users/fagyemang/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex
-\pgf@x=\dimen164
-\pgf@xa=\dimen165
-\pgf@xb=\dimen166
-\pgf@xc=\dimen167
-\pgf@y=\dimen168
-\pgf@ya=\dimen169
-\pgf@yb=\dimen170
-\pgf@yc=\dimen171
+\pgf@x=\dimen166
+\pgf@xa=\dimen167
+\pgf@xb=\dimen168
+\pgf@xc=\dimen169
+\pgf@y=\dimen170
+\pgf@ya=\dimen171
+\pgf@yb=\dimen172
+\pgf@yc=\dimen173
 \c@pgf@counta=\count280
 \c@pgf@countb=\count281
 \c@pgf@countc=\count282
 \c@pgf@countd=\count283
 ) (c:/Users/fagyemang/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
-\pgfmath@dimen=\dimen172
+\pgfmath@dimen=\dimen174
 \pgfmath@count=\count284
 \pgfmath@box=\box61
 \pgfmath@toks=\toks22
@@ -126,7 +126,7 @@ Package: pgfrcs 2021/05/15 v3.1.9a (3.1.9a)
 ) (c:/Users/fagyemang/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex (c:/Users/fagyemang/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code.tex) (c:/Users/fagyemang/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigonometric.code.tex) (c:/Users/fagyemang/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.random.code.tex) (c:/Users/fagyemang/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.comparison.code.tex) (c:/Users/fagyemang/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.code.tex) (c:/Users/fagyemang/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round.code.tex) (c:/Users/fagyemang/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.code.tex) (c:/Users/fagyemang/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerarithmetics.code.tex))) (c:/Users/fagyemang/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
 \c@pgfmathroundto@lastzeros=\count285
 ))) (c:/Users/fagyemang/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/base/size11.clo
-File: size11.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+File: size11.clo 2022/07/02 v1.4n Standard LaTeX file (size option)
 ) (c:/Users/fagyemang/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty (c:/Users/fagyemang/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
 (c:/Users/fagyemang/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/graphics/graphics.sty
@@ -139,8 +139,6 @@ File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 Package graphics Info: Driver file: pdftex.def on input line 107.
 (c:/Users/fagyemang/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/graphics-def/pdftex.def
 File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
-\stockwidth=\dimen173
-\stockheight=\dimen174
 ))
 \Gin@req@height=\dimen175
 \Gin@req@width=\dimen176
@@ -692,10 +690,10 @@ No file beamer-demo.nav.
 l.97 \SweaveOpts
                 {concordance=TRUE} 
 Here is how much of TeX's memory you used:
- 20905 strings out of 477026
- 413837 string characters out of 5826006
- 707106 words of memory out of 5000000
- 41651 multiletter control sequences out of 15000+600000
+ 20898 strings out of 476931
+ 413512 string characters out of 5823518
+ 708780 words of memory out of 5000000
+ 41741 multiletter control sequences out of 15000+600000
  470164 words of font info for 31 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  99i,4n,104p,667b,444s stack positions out of 10000i,1000n,20000p,200000b,200000s
