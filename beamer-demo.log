@@ -857,3 +857,34 @@ LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
 (Font)                  OT1/cmss/b/it --> OT1/mathkerncmss/m/sl on input line 4
 7.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
+(Font)                  OT1/mathkerncmss/m/sl --> OT1/mathkerncmss/bx/sl on inp
+ut line 47.
+
+(C:\Program Files\MiKTeX 2.9\tex/latex/translator\translator-basic-dictionary-E
+nglish.dict
+Dictionary: translator-basic-dictionary, Language: English 
+)
+(C:\Program Files\MiKTeX 2.9\tex/latex/translator\translator-bibliography-dicti
+onary-English.dict
+Dictionary: translator-bibliography-dictionary, Language: English 
+)
+(C:\Program Files\MiKTeX 2.9\tex/latex/translator\translator-environment-dictio
+nary-English.dict
+Dictionary: translator-environment-dictionary, Language: English 
+)
+(C:\Program Files\MiKTeX 2.9\tex/latex/translator\translator-months-dictionary-
+English.dict
+Dictionary: translator-months-dictionary, Language: English 
+)
+(C:\Program Files\MiKTeX 2.9\tex/latex/translator\translator-numbers-dictionary
+-English.dict
+Dictionary: translator-numbers-dictionary, Language: English 
+)
+(C:\Program Files\MiKTeX 2.9\tex/latex/translator\translator-theorem-dictionary
+-English.dict
+Dictionary: translator-theorem-dictionary, Language: English 
+) (beamer-demo.nav)
+! Undefined control sequence.
+l.48 \SweaveOpts
+                {concordance=TRUE}
+? 

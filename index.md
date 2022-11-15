@@ -4,4 +4,4 @@
 
 [HTML Slides](https://github.com/fagyemang2/fagyemang2.github.io/blob/main/README.html)
 
-[PDF Slides]()
+[PDF Slides](https://github.com/fagyemang2/frankagyemang1/blob/main/beamer-demo.pdf)
