@@ -94,7 +94,6 @@
 \end{filecontents}
 \IfFileExists{upquote.sty}{\usepackage{upquote}}{}
 \begin{document}
-\SweaveOpts{concordance=TRUE}
 
 
 \begin{frame}
@@ -118,7 +117,7 @@
 \begin{itemize}
         \item Penguins
 	\end{itemize}
-\includegraphics[scale=0.6]{penguin.png}
+\includegraphics[width=\textwidth]{penguin.png}
 \end{frame}
 
 
@@ -126,40 +125,31 @@
 \begin{itemize}
 		\item Parrots
 \end{itemize}
-\includegraphics[scale=0.7]{parrots.png}
+\includegraphics[width=.5\textwidth]{parrots.png}
 
 \end{frame}
 
 \section{Graphs}
 
-\begin{frame}{graphics}
+\begin{frame}[fragile]
+
+
 \begin{knitrout}
 \definecolor{shadecolor}{rgb}{0.969, 0.969, 0.969}\color{fgcolor}\begin{kframe}
 \begin{alltt}
-\hlcom{#library(readr)}
-\hlcom{#install.packages("ggplot2")}
-\hlcom{# sessionInfo()}
-\hlcom{# library(ggplot2)}
-\hlcom{#library(tidyverse)}
-\hlcom{#library(mclust)}
-\hlcom{#library(purr)}
-\hlcom{#library(stringr)}
-
 \hlstd{penguins} \hlkwb{<-} \hlkwd{read.csv}\hlstd{(}\hlstr{"penguins.csv"}\hlstd{)}
 
 \hlkwd{hist}\hlstd{(}\hlkwc{x}\hlstd{=penguins}\hlopt{$}\hlstd{bill_length_mm)}
 \end{alltt}
 \end{kframe}
-\includegraphics[width=\maxwidth]{figure/unnamed-chunk-1-1} 
-\begin{kframe}\begin{alltt}
-\hlcom{# ggplot(data = penguins, mapping = aes(x = "bill_length_mm", y = "bill_depth_mm")) + geom_hist(color = "red", alpha = .5, size = 4, shape = 6)+ ggtitle("2021 NTSE Endowment Market Values US and Canadian Institutions--REVISED March 1 2022")}
-\end{alltt}
-\end{kframe}
+\includegraphics[width=.8\textwidth]{figure/unnamed-chunk-2-1} 
 \end{knitrout}
 \end{frame}
 
 
-
+\begin{frame}
+My CV is on \href{https://fagyemang2.github.io/FrankAgyemangCV.pdf}{Github}
+\end{frame}
 
 % Adding the option 'allowframebreaks' allows the contents of the slide to be expanded in more than one slide.
 \begin{frame}[allowframebreaks]{References}

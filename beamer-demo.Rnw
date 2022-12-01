@@ -45,7 +45,6 @@
 
 
 \begin{document}
-\SweaveOpts{concordance=TRUE}
 
 
 \begin{frame}
@@ -69,7 +68,7 @@
 \begin{itemize}
         \item Penguins
 	\end{itemize}
-\includegraphics[scale=0.6]{penguin.png}
+\includegraphics[width=\textwidth]{penguin.png}
 \end{frame}
 
 
@@ -77,14 +76,14 @@
 \begin{itemize}
 		\item Parrots
 \end{itemize}
-\includegraphics[scale=0.7]{parrots.png}
+\includegraphics[width=.5\textwidth]{parrots.png}
 
 \end{frame}
 
 \section{Graphs}
 
-\begin{frame}{graphics}
-<<echo=TRUE, eval=TRUE>>=
+\begin{frame}[fragile]
+<<echo=F, eval=F>>=
 #library(readr)
 #install.packages("ggplot2")
 # sessionInfo()
@@ -94,15 +93,21 @@
 #library(purr)
 #library(stringr)
 
+# ggplot(data = penguins, mapping = aes(x = "bill_length_mm", y = "bill_depth_mm")) + geom_hist(color = "red", alpha = .5, size = 4, shape = 6)+ ggtitle("2021 NTSE Endowment Market Values US and Canadian Institutions--REVISED March 1 2022")
+@
+
+<<echo = T, eval = T, out.width=".8\\textwidth", fig.width = 8, fig.height = 4>>=
+
 penguins <- read.csv("penguins.csv")
 
 hist(x=penguins$bill_length_mm)
-# ggplot(data = penguins, mapping = aes(x = "bill_length_mm", y = "bill_depth_mm")) + geom_hist(color = "red", alpha = .5, size = 4, shape = 6)+ ggtitle("2021 NTSE Endowment Market Values US and Canadian Institutions--REVISED March 1 2022")
 @
 \end{frame}
 
 
-
+\begin{frame}
+My CV is on \href{https://fagyemang2.github.io/FrankAgyemangCV.pdf}{Github}
+\end{frame}
 
 % Adding the option 'allowframebreaks' allows the contents of the slide to be expanded in more than one slide.
 \begin{frame}[allowframebreaks]{References}

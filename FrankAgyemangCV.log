@@ -1,14 +1,14 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.11.1)  1 NOV 2022 20:18
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.11.4)  1 DEC 2022 02:16
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**"C:/Users/fagyemang/OneDrive - University of Nebraska-Lincoln/Desktop/Semester 1 Grad/stat 850/hw10-documents-presentations-fagyemang2(original)/hw10-documents-presentations-fagyemang2/FrankAgyemangCV.tex"
-(c:/Users/fagyemang/OneDrive - University of Nebraska-Lincoln/Desktop/Semester 1 Grad/stat 850/hw10-documents-presentations-fagyemang2(original)/hw10-documents-presentations-fagyemang2/FrankAgyemangCV.tex
-LaTeX2e <2022-06-01> patch level 5
-L3 programming layer <2022-10-26> (c:/Users/fagyemang/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/moderncv/moderncv.cls
+**"C:/Users/fagyemang/OneDrive - University of Nebraska-Lincoln/Desktop/Semester 1 Grad/stat 850/fagyemang2.github.io/FrankAgyemangCV.tex"
+(c:/Users/fagyemang/OneDrive - University of Nebraska-Lincoln/Desktop/Semester 1 Grad/stat 850/fagyemang2.github.io/FrankAgyemangCV.tex
+LaTeX2e <2022-11-01>
+L3 programming layer <2022-11-02> (c:/Users/fagyemang/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/moderncv/moderncv.cls
 Document Class: moderncv 2022-02-21 v2.3.1 modern curriculum vitae and letter document class
 (c:/Users/fagyemang/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/base/size11.clo
-File: size11.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+File: size11.clo 2022/07/02 v1.4n Standard LaTeX file (size option)
 ) (c:/Users/fagyemang/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/etoolbox/etoolbox.sty
 Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
 \etb@tempcnta=\count185
@@ -22,12 +22,10 @@ File: color.cfg 2016/01/02 v1.6 sample color configuration
 Package xcolor Info: Driver file: pdftex.def on input line 227.
 (c:/Users/fagyemang/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/graphics-def/pdftex.def
 File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
-\stockwidth=\dimen138
-\stockheight=\dimen139
 ) (c:/Users/fagyemang/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/colortbl/colortbl.sty
 Package: colortbl 2022/06/20 v1.0f Color table columns (DPC)
 (c:/Users/fagyemang/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/tools/array.sty
-Package: array 2022/03/10 v2.5f Tabular extension package (FMi)
+Package: array 2022/09/04 v2.5g Tabular extension package (FMi)
 \col@sep=\dimen140
 \ar@mcellbox=\box51
 \extrarowheight=\dimen141
@@ -71,7 +69,7 @@ Package graphics Info: Driver file: pdftex.def on input line 107.
 \Gin@req@height=\dimen142
 \Gin@req@width=\dimen143
 ) (c:/Users/fagyemang/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
-Package: fancyhdr 2022/05/18 v4.0.3 Extensive control of page headers and footers
+Package: fancyhdr 2022/11/09 v4.1 Extensive control of page headers and footers
 \f@nch@headwidth=\skip50
 \f@nch@O@elh=\skip51
 \f@nch@O@erh=\skip52
@@ -94,7 +92,7 @@ LaTeX Info: Redefining \addtolength on input line 81.
 \calc@Ccount=\count189
 \calc@Cskip=\skip61
 ) (c:/Users/fagyemang/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/l3packages/xparse/xparse.sty (c:/Users/fagyemang/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/l3kernel/expl3.sty
-Package: expl3 2022-10-26 L3 programming layer (loader) 
+Package: expl3 2022-11-02 L3 programming layer (loader) 
 (c:/Users/fagyemang/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2022-10-26 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count190
@@ -443,7 +441,7 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 \Gm@layoutvoffset=\dimen273
 \Gm@dimlist=\toks33
 ) (c:/Users/fagyemang/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/hyperref/hyperref.sty
-Package: hyperref 2022-09-22 v7.00t Hypertext links for LaTeX
+Package: hyperref 2022-11-13 v7.00u Hypertext links for LaTeX
 (c:/Users/fagyemang/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
 Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
 ) (c:/Users/fagyemang/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
@@ -481,7 +479,7 @@ Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
 \Hy@linkcounter=\count305
 \Hy@pagecounter=\count306
 (c:/Users/fagyemang/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/hyperref/pd1enc.def
-File: pd1enc.def 2022-09-22 v7.00t Hyperref: PDFDocEncoding definition (HO)
+File: pd1enc.def 2022-11-13 v7.00u Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
 ) (c:/Users/fagyemang/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/intcalc/intcalc.sty
@@ -491,7 +489,7 @@ Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
 )
 \Hy@SavedSpaceFactor=\count307
 (c:/Users/fagyemang/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/hyperref/puenc.def
-File: puenc.def 2022-09-22 v7.00t Hyperref: PDF Unicode definition (HO)
+File: puenc.def 2022-11-13 v7.00u Hyperref: PDF Unicode definition (HO)
 Now handling font encoding PU ...
 ... no UTF-8 mapping file for font encoding PU
 )
@@ -531,7 +529,7 @@ package with kernel methods
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
 (c:/Users/fagyemang/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/hyperref/hpdftex.def
-File: hpdftex.def 2022-09-22 v7.00t Hyperref driver for pdfTeX
+File: hpdftex.def 2022-11-13 v7.00u Hyperref driver for pdfTeX
 (c:/Users/fagyemang/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/base/atveryend-ltx.sty
 Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend package
 with kernel methods
@@ -702,13 +700,13 @@ Package rerunfilecheck Info: File `FrankAgyemangCV.out' has not changed.
 (rerunfilecheck)             Checksum: E11039E900146945CC51A22D66BE4F77;1343.
  ) 
 Here is how much of TeX's memory you used:
- 25995 strings out of 477026
- 515907 string characters out of 5826006
- 941203 words of memory out of 5000000
- 46624 multiletter control sequences out of 15000+600000
+ 26002 strings out of 476931
+ 515443 string characters out of 5823518
+ 942970 words of memory out of 5000000
+ 46729 multiletter control sequences out of 15000+600000
  481474 words of font info for 96 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 129i,13n,122p,1198b,503s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 129i,13n,122p,1129b,503s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {c:/Users/fagyemang/AppData/Roaming/TinyTeX/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free1.enc} <c:/Users/fagyemang/AppData/Roaming/TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/tcsl1095.600pk>{c:/Users/fagyemang/AppData/Roaming/TinyTeX/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free2.enc}{c:/Users/fagyemang/AppData/Roaming/TinyTeX/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free0.enc}<c:/Users/fagyemang/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Free-Regular.pfb><c:/Users/fagyemang/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Free-Solid.pfb><c:/Users/fagyemang/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><c:/Users/fagyemang/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb><c:/Users/fagyemang/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb><c:/Users/fagyemang/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmss17.pfb><c:/Users/fagyemang/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><c:/Users/fagyemang/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb><c:/Users/fagyemang/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi17.pfb>
 Output written on FrankAgyemangCV.pdf (2 pages, 137071 bytes).
 PDF statistics:
